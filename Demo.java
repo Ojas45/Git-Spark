@@ -11,4 +11,9 @@ class Demo{
         System.out.println("Hello Users");
     
     }
+    
+     public void authentication(){
+        System.out.println("Authenticate user");
+    
+    }
 }
