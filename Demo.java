@@ -7,4 +7,8 @@ class Demo{
         System.out.println("Payment Method: ");
      }
 
+     public void notifyUser(){
+        System.out.println("Hello Users");
+    
+    }
 }
